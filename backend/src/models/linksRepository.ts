@@ -25,3 +25,5 @@ export default {
     add,
     hit
 }
+
+// persistencia
